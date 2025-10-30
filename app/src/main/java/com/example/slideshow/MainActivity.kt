@@ -55,14 +55,16 @@ fun Slideshow() {
         R.drawable.cat_2,
         R.drawable.cat_3,
         R.drawable.cat_4,
-        R.drawable.cat_5
+        R.drawable.cat_5,
+        R.drawable.cat_6
     )
     val captions = listOf(
         R.string.cat_1_caption,
         R.string.cat_2_caption,
         R.string.cat_3_caption,
         R.string.cat_4_caption,
-        R.string.cat_5_caption
+        R.string.cat_5_caption,
+        R.string.cat_6_caption
     )
     require(images.size == captions.size)
     val imageCount = images.size
