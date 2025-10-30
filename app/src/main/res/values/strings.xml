@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Slideshow</string>
+    <string name="cat_1_caption">Kitten looking to the bottom right</string>
+    <string name="cat_2_caption">Cat licking its paw with its eyes closed</string>
+    <string name="cat_3_caption">5 cats with blue eyes in the grass</string>
+    <string name="cat_4_caption">Cat with blue eyes in sphynx pose</string>
+    <string name="cat_5_caption">Orange cat looking up</string>
+</resources>
