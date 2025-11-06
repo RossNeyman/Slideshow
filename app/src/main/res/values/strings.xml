@@ -6,4 +6,9 @@
     <string name="cat_4_caption">Cat with blue eyes in sphynx pose</string>
     <string name="cat_5_caption">Orange cat looking up</string>
     <string name="cat_6_caption">Hairless cat looking to the right</string>
+    <string name="cat_7_caption">Cat on a branch</string>
+    <string name="cat_8_caption">Cat sniffing another cat</string>
+    <string name="cat_9_caption">Wet cat</string>
+    <string name="cat_10_caption">Cat licking another cat</string>
+    <string name="cat_11_caption">Cat coming from behind a curtain</string>
 </resources>
